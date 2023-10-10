@@ -1,0 +1,13 @@
+{
+    "name": "aoxiang/webman-sunctum",
+    "autoload": {
+        "psr-4": {
+            "Aoxiang\\WebmanSunctum\\": "src/"
+        }
+    },
+    "type": "library",
+    "license": "MIT",
+    "description": "Webman plugin aoxiang/webmansunctum",
+    "require": {
+    }
+}
